@@ -211,7 +211,7 @@ a {
 }
 
 .meeting-key {
-  margin-left: 20%;
+  margin-left: 11%;
 }
 
 .float-right {
@@ -240,6 +240,10 @@ a {
 .form-control:focus {
   border-color: #b5b5b5;
   box-shadow: 0 0 0 0.2rem #a3a3a329;
+}
+
+.contact-text {
+  font-size: 21px
 }
 
 .form-control::placeholder {
