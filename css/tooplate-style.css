@@ -210,6 +210,10 @@ a {
   height: 200px;
 }
 
+.meeting-key {
+  margin-left: 20%;
+}
+
 .float-right {
   float: right;
 }
