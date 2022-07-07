@@ -14,6 +14,14 @@ body {
   overflow-x: hidden;
 }
 
+.tm-section-head {
+  background-color: white;
+  border-bottom-style: solid;
+  border-width: 1px
+}
+.tm-section-head2 {
+  margin-bottom: 5%
+}
 a:hover,
 a:focus,
 .tm-text-gray {
