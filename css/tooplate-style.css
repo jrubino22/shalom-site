@@ -438,6 +438,10 @@ a {
   .tm-2col-r {
     padding-left: 30px;
   }
+  .g-map{
+    display:block;
+    width:70%
+  }
 }
 
 @media screen and (max-width: 991px) {
@@ -460,6 +464,10 @@ a {
   }
   .tm-2col-r {
     padding-left: 20px;
+  }
+  .g-map{
+    display:block;
+    width:100%
   }
 }
 
@@ -502,6 +510,10 @@ a {
   .tm-mb-sm-4 {
     margin-bottom: 30px;
   }
+  .g-map{
+    display:block;
+    width:80%
+  }
 }
 
 @media screen and (max-width: 540px) {
@@ -527,6 +539,11 @@ a {
     width: 100%;
   }
 
+  .g-map{
+    display:block;
+    width:60%
+  }
+
 }
 
 @media screen and (max-width: 430px) {
@@ -536,6 +553,7 @@ a {
   .navbar {
     padding: 0;
   }
+
 }
 
 @media (min-width: 768px) {
