@@ -219,7 +219,7 @@ a {
 }
 
 .meeting-key {
-  margin-left: 11%;
+  margin-left: 8%;
 }
 
 .float-right {
@@ -470,10 +470,6 @@ a {
   .tm-2col-r {
     padding-left: 20px;
   }
-  .g-map{
-    display:block;
-    width:100%
-  }
 }
 
 @media screen and (max-width: 768px) {
@@ -515,7 +511,9 @@ a {
   .tm-mb-sm-4 {
     margin-bottom: 30px;
   }
-  
+  .menu-t {
+    margin-right: 5%;
+  }
 }
 
 @media screen and (max-width: 540px) {
@@ -539,6 +537,14 @@ a {
 
   .schedule {
     width: 100%;
+  }
+
+  h1{
+    margin-top: 1.5rem
+  }
+
+  .meeting-key {
+    margin-left: 1%;
   }
 }
 
